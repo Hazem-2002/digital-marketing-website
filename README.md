@@ -6,7 +6,7 @@ A simple **static website** built using **HTML and CSS**. This is my first proje
 
 ## 🚀 Live Demo
 
-🔗 [Live Demo](https://hazem-2002.github.io/digital-marketing-website/)
+🔗 [Live Demo](https://hazem-2002.github.io/digital-marketing-website/)   
 🔗 [GitHub Repository](https://github.com/Hazem-2002/digital-marketing-website)
 
 ---
@@ -30,8 +30,8 @@ A simple **static website** built using **HTML and CSS**. This is my first proje
 
 ## 🛠️ Tech Stack
 
-* 🌐 HTML5
-* 🎨 CSS3
+* 🌐 HTML
+* 🎨 CSS
 
 ---
 
